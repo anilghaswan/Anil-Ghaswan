@@ -1,6 +1,6 @@
 # Anil-Ghaswan
 my portfolio web
-<h1 align="center">Hi 👋, I'm Alex Carter</h1>
+<h1 align="center">Hi 👋, I'm Anil Ghaswan</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
